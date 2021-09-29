@@ -91,15 +91,3 @@ function calcularAreaCirculo(){
     alert(area)
 }
 //
-function parametrosAltura(){
-
-
-}
-function calcularAltura(){
-    const [inputL1, inputL2, inputBase, inputAltura] = parametrosTriangulo()
-    if (inputL1 == inputL2){
-        
-    }
-
-
-}
